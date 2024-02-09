@@ -5,9 +5,9 @@
 
 | Name | Student No. |
 |:---:|:---:|
-| Noah Toma | 100825559 |
-| Jordan Hagehorn | |
-| Dmitri Rios-Nadeau | |
+| Noah Toma | 100 |
+| Jordan Hagehorn | 100 |
+| Dmitri Rios-Nadeau | 100 |
 
 </div>
 <hr>
