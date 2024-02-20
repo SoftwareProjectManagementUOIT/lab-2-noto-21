@@ -7,7 +7,7 @@
 |:---:|:---:|
 | Noah Toma | 100825559 |
 | Jordan Hagehorn | 100 |
-| Dmitri Rios-Nadeau | 100 |
+| Dmitri Rios-Nadeau | 100783206 |
 
 </div>
 <hr>
